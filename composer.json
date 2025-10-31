@@ -1,0 +1,20 @@
+{
+    "name": "evan755/task-tracker",
+    "description": "Task Tracker",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Evan755\\TaskTracker\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evan Wu",
+            "email": "info@wupeize.com"
+        }
+    ],
+    "require": {
+        "php": "^8.4"
+    }
+}

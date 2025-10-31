@@ -1,0 +1,6 @@
+#!/usr/bin/env php
+<?php declare(strict_types = 1);
+include_once 'vendor/autoload.php';
+
+use Evan755\TaskTracker\Main;
+new Main()->run();
